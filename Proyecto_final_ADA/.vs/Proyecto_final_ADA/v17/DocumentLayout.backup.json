@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ADA\\Proyecto_final_ADA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{218B6994-DBDC-4D69-A4A9-9C25C049AF5E}|Proyecto_final_ADA\\Proyecto_final_ADA.csproj|d:\\ada\\proyecto_final_ada\\proyecto_final_ada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{218B6994-DBDC-4D69-A4A9-9C25C049AF5E}|Proyecto_final_ADA\\Proyecto_final_ADA.csproj|solutionrelative:proyecto_final_ada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218B6994-DBDC-4D69-A4A9-9C25C049AF5E}|Proyecto_final_ADA\\Proyecto_final_ADA.csproj|d:\\ada\\proyecto_final_ada\\proyecto_final_ada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218B6994-DBDC-4D69-A4A9-9C25C049AF5E}|Proyecto_final_ADA\\Proyecto_final_ADA.csproj|solutionrelative:proyecto_final_ada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218B6994-DBDC-4D69-A4A9-9C25C049AF5E}|Proyecto_final_ADA\\Proyecto_final_ADA.csproj|d:\\ada\\proyecto_final_ada\\proyecto_final_ada\\geometria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218B6994-DBDC-4D69-A4A9-9C25C049AF5E}|Proyecto_final_ADA\\Proyecto_final_ADA.csproj|solutionrelative:proyecto_final_ada\\geometria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218B6994-DBDC-4D69-A4A9-9C25C049AF5E}|Proyecto_final_ADA\\Proyecto_final_ADA.csproj|d:\\ada\\proyecto_final_ada\\proyecto_final_ada\\listapuntos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218B6994-DBDC-4D69-A4A9-9C25C049AF5E}|Proyecto_final_ADA\\Proyecto_final_ADA.csproj|solutionrelative:proyecto_final_ada\\listapuntos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{218B6994-DBDC-4D69-A4A9-9C25C049AF5E}|Proyecto_final_ADA\\Proyecto_final_ADA.csproj|d:\\ada\\proyecto_final_ada\\proyecto_final_ada\\punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{218B6994-DBDC-4D69-A4A9-9C25C049AF5E}|Proyecto_final_ADA\\Proyecto_final_ADA.csproj|solutionrelative:proyecto_final_ada\\punto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Geometria.cs",
+              "DocumentMoniker": "D:\\ADA\\Proyecto_final_ADA\\Proyecto_final_ADA\\Geometria.cs",
+              "RelativeDocumentMoniker": "Proyecto_final_ADA\\Geometria.cs",
+              "ToolTip": "D:\\ADA\\Proyecto_final_ADA\\Proyecto_final_ADA\\Geometria.cs",
+              "RelativeToolTip": "Proyecto_final_ADA\\Geometria.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T01:50:28.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ADA\\Proyecto_final_ADA\\Proyecto_final_ADA\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto_final_ADA\\Form1.cs",
+              "ToolTip": "D:\\ADA\\Proyecto_final_ADA\\Proyecto_final_ADA\\Form1.cs",
+              "RelativeToolTip": "Proyecto_final_ADA\\Form1.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:23:29.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Listapuntos.cs",
+              "DocumentMoniker": "D:\\ADA\\Proyecto_final_ADA\\Proyecto_final_ADA\\Listapuntos.cs",
+              "RelativeDocumentMoniker": "Proyecto_final_ADA\\Listapuntos.cs",
+              "ToolTip": "D:\\ADA\\Proyecto_final_ADA\\Proyecto_final_ADA\\Listapuntos.cs",
+              "RelativeToolTip": "Proyecto_final_ADA\\Listapuntos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:52:49.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Punto.cs",
+              "DocumentMoniker": "D:\\ADA\\Proyecto_final_ADA\\Proyecto_final_ADA\\Punto.cs",
+              "RelativeDocumentMoniker": "Proyecto_final_ADA\\Punto.cs",
+              "ToolTip": "D:\\ADA\\Proyecto_final_ADA\\Proyecto_final_ADA\\Punto.cs",
+              "RelativeToolTip": "Proyecto_final_ADA\\Punto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:51:50.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ADA\\Proyecto_final_ADA\\Proyecto_final_ADA\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto_final_ADA\\Form1.cs",
+              "ToolTip": "D:\\ADA\\Proyecto_final_ADA\\Proyecto_final_ADA\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto_final_ADA\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:02:26.507Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
