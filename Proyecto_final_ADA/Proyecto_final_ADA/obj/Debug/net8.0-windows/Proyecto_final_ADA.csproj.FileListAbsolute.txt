@@ -1,0 +1,16 @@
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\bin\Debug\net8.0-windows\Proyecto_final_ADA.exe
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\bin\Debug\net8.0-windows\Proyecto_final_ADA.deps.json
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\bin\Debug\net8.0-windows\Proyecto_final_ADA.runtimeconfig.json
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\bin\Debug\net8.0-windows\Proyecto_final_ADA.dll
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\bin\Debug\net8.0-windows\Proyecto_final_ADA.pdb
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\obj\Debug\net8.0-windows\Proyecto_final_ADA.Form1.resources
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\obj\Debug\net8.0-windows\Proyecto_final_ADA.csproj.GenerateResource.cache
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\obj\Debug\net8.0-windows\Proyecto_final_ADA.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\obj\Debug\net8.0-windows\Proyecto_final_ADA.AssemblyInfoInputs.cache
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\obj\Debug\net8.0-windows\Proyecto_final_ADA.AssemblyInfo.cs
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\obj\Debug\net8.0-windows\Proyecto_final_ADA.csproj.CoreCompileInputs.cache
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\obj\Debug\net8.0-windows\Proyecto_final_ADA.dll
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\obj\Debug\net8.0-windows\refint\Proyecto_final_ADA.dll
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\obj\Debug\net8.0-windows\Proyecto_final_ADA.pdb
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\obj\Debug\net8.0-windows\Proyecto_final_ADA.genruntimeconfig.cache
+D:\ADA\Proyecto_final_ADA\Proyecto_final_ADA\obj\Debug\net8.0-windows\ref\Proyecto_final_ADA.dll
